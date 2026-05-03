@@ -1,0 +1,20 @@
+node_modules
+.DS_Store
+dist
+
+
+# Editor directories and files
+.vscode
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+.eslintcache
+
+# vitepress stuff
+.vitepress/dist
+.vitepress/cache
