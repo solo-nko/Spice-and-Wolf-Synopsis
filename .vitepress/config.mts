@@ -13,10 +13,10 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Light Novels',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Volume 4', link: '/spice-and-wolf/volume-4' },
+          { text: 'Volume 5', link: '/spice-and-wolf/volume-5' }
         ]
       }
     ],
