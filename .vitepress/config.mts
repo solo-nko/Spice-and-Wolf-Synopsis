@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  srcDir: "site",
   title: "Spice and Wolf Synopsis",
   description: "A collection of summaries for the Spice and Wolf LN series",
   themeConfig: {
