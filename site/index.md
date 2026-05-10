@@ -4,8 +4,7 @@ layout: home
 
 hero:
   name: "Spice and Wolf Synopsis"
-  text: "A collection of summaries for the Spice and Wolf LN series"
-  tagline: My great project tagline
+  tagline: "A collection of summaries for the Spice and Wolf LN series."
   actions:
     - theme: brand
       text: Start reading
