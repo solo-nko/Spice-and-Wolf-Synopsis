@@ -5,7 +5,7 @@ export default defineConfig({
 	srcDir: "site",
 	title: "Spice and Wolf Synopsis",
 	description: "A collection of summaries for the Spice and Wolf LN series",
-	head: [['link', { rel: 'icon', href: '/public/favicon.ico' }]],
+	head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
 		nav: [

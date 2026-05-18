@@ -1,4 +1,4 @@
-# Spice and Wolf, Volume 7
+# Spice and Wolf, Volume 8
 
 > "It was the virtue of all merchants that even if they had been prepared to kill each other yesterday, if their interests were aligned today, they'd happily shake hands."
 
